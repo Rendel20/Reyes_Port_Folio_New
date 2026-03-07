@@ -13,7 +13,7 @@ export default function About() {
             name: 'Languages',
             icon1: './assets/code-icon.png',
             icon2: './assets/code-icon-dark.png',
-            description: 'HTML, CSS, JavaScript React Js, Next Js, Php, Python, Bootstrap, MySQL',
+            description: 'HTML, CSS, JavaScript React Js, Next Js, Php, Python, Bootstrap, MySQL, Laravel',
         },
         {
             name: 'Education',
@@ -39,12 +39,7 @@ export default function About() {
                     
                 </div>
                 <div className="flex-1">
-                    <p className="mb-6 max-w-2xl font-Ovo text-[15px] leading-7">I am a Full Stack Developer and a Bachelor of Science in Information Technology (BSIT) graduate from Davao del Norte State College. I am passionate about building useful, user-friendly digital solutions and turning ideas into clean, responsive interfaces and functional web applications.
-
-With experience in both front-end and back-end development, I enjoy designing and developing complete systems that are efficient, scalable, and easy to use. I focus on writing clean code and creating intuitive user experiences that solve real-world problems.
-
-I am continuously improving my skills in modern web technologies to develop innovative and impactful web applications.</p>
-
+                    <p className="mb-6 max-w-2xl font-Ovo text-[15px] leading-7">I am a Full Stack Developer and a graduating Bachelor of Science in Information Technology (BSIT) student from Davao del Norte State College. I am passionate about building useful, user-friendly digital solutions and turning ideas into clean, responsive interfaces and functional web applications. With experience in both front-end and back-end development, I enjoy designing and developing complete systems that are efficient, scalable, and easy to use. I focus on writing clean code and creating intuitive user experiences that solve real-world problems. I am continuously improving my skills in modern web technologies to develop innovative and impactful web applications.</p>
                     <ul className="grid grid-cols-1 sm:grid-cols-3 gap-4 max-w-2xl">
                         {data.map((data) => (
                             <li key={data.name} className="border border-gray-300 dark:border-white/30 rounded-xl p-5 cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 hover:shadow-black dark:hover:shadow-white/80 dark:hover:bg-darkHover/50">

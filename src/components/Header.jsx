@@ -6,7 +6,7 @@ export default function Header() {
             </h3>
             <h1 className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo -mt-2">Full stack web developer</h1>
             <p className="max-w-2xl mx-auto font-Ovo text-base sm:text-lg text-gray-600 dark:text-gray-300">
-            Specializing in building responsive, scalable, and user-focused web applications. BSIT graduate from Davao del Norte State College with a passion for transforming ideas into efficient digital solutions.
+            Specializing in building responsive, scalable, and user-focused web applications. A graduating BSIT student from Davao del Norte State College with a passion for transforming ideas into efficient and practical digital solutions.
             </p>
             <p className="max-w-xl mx-auto font-Ovo text-sm text-gray-500 dark:text-gray-400">
                 React · Node.js · APIs · PHP · JavaScript · MySQL · Laravel
