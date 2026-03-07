@@ -2,28 +2,28 @@ export default function Work() {
     const work = [
         {
             name: 'SignSpeak',
-            icon: './assets/signspeak.png',
+            icon: './assets/sign-speak.png',
             description: 'SignSpeak is a sign language translation web application that converts hand gestures into text to help improve communication with people who are deaf or hard of hearing. The platform also allows users to learn sign language interactively. This project was developed as my capstone project.',
             link: '#',
             codeLink: '#',
         },
         {
             name: 'ChatVibe',
-            icon: './assets/chatvibe.png',
+            icon: './assets/chat-vibe.png',
             description: 'ChatVibe is a random online chat messaging platform that allows users to instantly connect and communicate with other people in real time through a simple and user-friendly interface.',
             link: '#',
             codeLink: '#',
         },
         {
             name: 'NetBridge',
-            icon: './assets/netbridge.png',
+            icon: './assets/net-bridge.png',
             description: 'NetBridge is a local intranet messaging platform designed for communication within a local network. It allows users to send messages and stay connected even without an internet connection, making it ideal for offices, schools, or local environments.',
             link: '#',
             codeLink: '#',
         },
         {
             name: 'FileBridge',
-            icon: './assets/filebridge.png',
+            icon: './assets/file-bridge.png',
             description: 'FileBridge is a file management and organization system that helps users store, manage, and arrange their documents efficiently. It provides a structured way to keep files organized and easily accessible.',
             link: '#',
             codeLink: '#',
