@@ -27,6 +27,13 @@ export default function Work() {
             description: 'FileBridge is a file management and organization system that helps users store, manage, and arrange their documents efficiently. It provides a structured way to keep files organized and easily accessible.',
             link: '#',
             codeLink: '#',
+        },
+        {
+            name: 'SmartTask',
+            icon: './assets/smart-task.png',
+            description: 'Smart Task Manager is a full-stack productivity web application that helps users organize and prioritize tasks efficiently. The system includes task management, deadline tracking, productivity analytics, and smart task recommendations based on priority and urgency. It is built using React, Laravel API, and MySQL.',
+            link: '#',
+            codeLink: '#',
         }
     ];
     return (
