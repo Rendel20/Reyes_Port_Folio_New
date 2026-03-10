@@ -34,6 +34,13 @@ export default function Work() {
             description: 'Smart Task Manager is a full-stack productivity web application that helps users organize and prioritize tasks efficiently. The system includes task management, deadline tracking, productivity analytics, and smart task recommendations based on priority and urgency. It is built using React, Laravel API, and MySQL.',
             link: '#',
             codeLink: '#',
+        },
+        {
+            name: 'FaceAttend',
+            icon: './assets/face-attend.png',
+            description: 'A web-based attendance system that uses facial recognition to automatically detect and record user attendance in real time, built using Laravel, React, and MySQL.',
+            link: '#',
+            codeLink: '#',
         }
     ];
     return (
